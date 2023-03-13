@@ -1,0 +1,31 @@
+[
+    {
+        "claimNumber": "222222",
+        "data": [
+            {
+                "categoryName": "Certificate",
+                "status": "Received",
+                "documents": [
+                    {
+                        "documentName": "Certificate1.pdf",
+                        "fileSize": 2000000
+                    },
+                    {
+                        "documentName": "Certificate2.pdf",
+                        "fileSize": 2500000
+                    },
+                    {
+                        "documentName": "Certificate3.pdf",
+                        "fileSize": 1000000
+                    }
+                ]
+            },
+            {
+                "categoryId": "MEDICAL_REPORTS",
+                "categoryName": "Medical Reports",
+                "status": "Pending",
+                "documents": []
+            }
+        ]
+    }
+]
